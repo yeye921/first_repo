@@ -2,7 +2,7 @@
 int main(void)
 {
 	int N;
-	std::cout << "¼ıÀÚÀÔ·Â\n";
+	std::cout << "Â¼Ã½Ã€ÃšÃ€Ã”Â·Ã‚\n";
 	std::cin >> N;
 
 	for (int i = 1;i < 10;i++) {
